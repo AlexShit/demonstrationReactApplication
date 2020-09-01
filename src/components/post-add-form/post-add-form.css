@@ -1,0 +1,12 @@
+.bottom-panel {
+    margin-top: 12px;
+}
+
+.bottom-panel .form-control {
+    width: 85%;
+}
+
+.bottom-panel .btn {
+    height: 38px;
+}
+
